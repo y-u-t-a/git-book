@@ -1,0 +1,23 @@
+{
+  "name": "git-book",
+  "version": "1.0.0",
+  "description": "GitHub Pages で GitBook を使う",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-u-t-a/git-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-u-t-a/git-book/issues"
+  },
+  "homepage": "https://github.com/y-u-t-a/git-book#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
